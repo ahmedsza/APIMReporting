@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMReporting", "APIMReporting\APIMReporting.csproj", "{EF8CA874-FB6B-4DD8-AD1F-300605EBC890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8CA874-FB6B-4DD8-AD1F-300605EBC890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8CA874-FB6B-4DD8-AD1F-300605EBC890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8CA874-FB6B-4DD8-AD1F-300605EBC890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8CA874-FB6B-4DD8-AD1F-300605EBC890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C6A8FD-3B7B-42D7-83F3-B00D078B9E57}
+	EndGlobalSection
+EndGlobal
